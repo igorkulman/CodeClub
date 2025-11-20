@@ -1,0 +1,4 @@
+sales|sale_value|0
+expenses|expense_value|1
+100
+900
